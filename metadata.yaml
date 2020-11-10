@@ -1,11 +1,16 @@
 _repo: The-Pearl-its-story-its-charm-and-its-value_63623
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63623-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Cattelle, Wallis Richard
     gutenberg_agent_id: '52525'
     url: http://www.gutenberg.org/2009/agents/52525
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63623#The-Pearl-its-story-its-charm-and-its-value
 gutenberg_issued: '2020-11-04'
 gutenberg_type: Text
 identifiers:
